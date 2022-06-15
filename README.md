@@ -8,7 +8,7 @@
 
 - Collaborative filtering engines: these systems are widely used, and they try to predict the rating or preference that a user would give an item-based on past ratings and preferences of other users. Collaborative filters do not require item metadata like its content-based counterparts.
 
-## there's two recommenders
+## i applied this concept on two different projects :
 ### Book Recommendations from Charles Darwin :
 in this we bulid Book Recommender using Content-based  by use the book's reviews and cluster them and predict for user books from the same cluster he like 
 
