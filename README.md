@@ -14,5 +14,5 @@ in this we bulid Book Recommender using Content-based  by use the book's reviews
 
 ### Find Movie Similarity from Plot Summaries :
 in this we bulid movie Recommender using two ways :
-- Content-based :use the movie's reviews and cluster them and predict for user books from the same cluster he like 
-- Collaborative filtering engines : using Artificial neural network to predict the rating based on userid and movieid 
+- Content-based :use the movie's reviews and cluster them and predict for user moives from the same cluster he like 
+- Collaborative filtering engines : using Artificial neural network to predict the rating based on userid and movieid , then use this model to predict how likely will user recommend this movie
